@@ -5,10 +5,12 @@ A tool that reads characters from stdin and reads them out loud through the spea
 This command:
 
 ```
-echo -n "Hello world!" | ./nato
+echo -n "Hello world!" | ./nato.sh
 ```
 
 would play [the following](demo.ogg) in the speakers:
+
+[demo.webm](https://github.com/user-attachments/assets/79a98100-16b9-455f-85b9-18f4a6d05ff8)
 
 ```
 Capital hotel
